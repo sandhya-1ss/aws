@@ -1,15 +1,15 @@
 Status: Succeeded
-Test Event Name: s3testevent
+Test Event Name: addtest
 
 Response:
 {
   "statusCode": 200,
-  "body": "\"Hello from Lambda!\""
+  "body": "{\"result\": 8.14}"
 }
 
 Function Logs:
-START RequestId: 8810b313-7ae3-4439-a9fa-62400c814a27 Version: $LATEST
-END RequestId: 8810b313-7ae3-4439-a9fa-62400c814a27
-REPORT RequestId: 8810b313-7ae3-4439-a9fa-62400c814a27	Duration: 13.99 ms	Billed Duration: 14 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 73.14 ms
+START RequestId: 60c0e865-1c41-4734-802f-9fa49e65c172 Version: $LATEST
+END RequestId: 60c0e865-1c41-4734-802f-9fa49e65c172
+REPORT RequestId: 60c0e865-1c41-4734-802f-9fa49e65c172	Duration: 2.23 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 30 MB	Init Duration: 65.52 ms
 
-Request ID: 8810b313-7ae3-4439-a9fa-62400c814a27
+Request ID: 60c0e865-1c41-4734-802f-9fa49e65c172
