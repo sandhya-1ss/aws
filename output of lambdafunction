@@ -1,0 +1,15 @@
+Status: Succeeded
+Test Event Name: s3testevent
+
+Response:
+{
+  "statusCode": 200,
+  "body": "\"Hello from Lambda!\""
+}
+
+Function Logs:
+START RequestId: 8810b313-7ae3-4439-a9fa-62400c814a27 Version: $LATEST
+END RequestId: 8810b313-7ae3-4439-a9fa-62400c814a27
+REPORT RequestId: 8810b313-7ae3-4439-a9fa-62400c814a27	Duration: 13.99 ms	Billed Duration: 14 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 73.14 ms
+
+Request ID: 8810b313-7ae3-4439-a9fa-62400c814a27
